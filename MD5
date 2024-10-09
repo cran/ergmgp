@@ -1,4 +1,4 @@
-4101f6c72966b58fc4f5b0da04f5e71d *DESCRIPTION
+ce2313c3c83f51f437e243667c0a2b37 *DESCRIPTION
 c1a59b1b96102eb4661b6c23b35f57b9 *LICENSE
 f4c92699e2e37cb23370da3bbb6ee97c *NAMESPACE
 b47332af0a43476146da9578f011392d *R/EGPHazards.R
@@ -6,16 +6,16 @@ ee6d549ba36c041e5f081750f16dc0b4 *R/EGPRateEst.R
 70ee8953ccc6f9fadf161f4146bf9a17 *R/durations.R
 190d2335ed598c5c1e60959f8f83c8f7 *R/simEGP.R
 fd567b138576c486119f1f7af5db0aa4 *R/zzz.R
-8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
+20c8d3f97d93e2e318a22508275b5a02 *build/partial.rdb
 1dfad7072aaba9bf62808f5509392103 *man/EGPHazard.Rd
 de1553f4dc099d12d1b4e138919e06ba *man/EGPRateEst.Rd
 117d7d93e71600210784d390c56b2ce5 *man/durations.Rd
 dda2927648ed7fe70629a5e680cba7bf *man/ergmgp-package.Rd
-f4fa9e5b0ddb8e35c66471828223c613 *man/simEGP.Rd
+c34d241dd32cf9835d8111c6e98ddd1d *man/simEGP.Rd
 3a0b2e405f438edb1462637c12ab974b *src/EGPHazards.c
 015f72691d72b584dd7fb712effc8d0d *src/egp.h
 6ab1bc1df2cb0a7dc03fae67bf6cd06b *src/include_stubs.c
 3bd8f1051e56d609b9f079f63dd82db6 *src/init.c
 267fb6d3120b73f7bbec1e18b67b6bac *src/simEGP.c
-0e782d34cf0b1682a12db6ac404a02f8 *src/utils.c
+14ca06eb4f16e4dd0505e199a5256586 *src/utils.c
 33290f51cab43ed39276ed18d6357172 *src/utils.h

@@ -1,6 +1,6 @@
 Package: ergmgp
-Version: 0.1-1
-Date: 2023-12-04
+Version: 0.1-2
+Date: 2024-10-08
 Title: Tools for Modeling ERGM Generating Processes
 Authors@R: c(
    	   person("Carter T.", "Butts", role=c("aut","cre"), email="buttsc@uci.edu"),
@@ -15,9 +15,9 @@ License: GPL-3 + file LICENSE
 URL: https://statnet.org
 BugReports: https://github.com/statnet/ergmgp/issues
 NeedsCompilation: yes
-Packaged: 2023-12-05 04:57:15 UTC; buttsc
+Packaged: 2024-10-09 08:48:44 UTC; buttsc
 Author: Carter T. Butts [aut, cre],
   Statnet Commons [ctb]
 Maintainer: Carter T. Butts <buttsc@uci.edu>
 Repository: CRAN
-Date/Publication: 2023-12-05 11:50:05 UTC
+Date/Publication: 2024-10-09 10:20:04 UTC
